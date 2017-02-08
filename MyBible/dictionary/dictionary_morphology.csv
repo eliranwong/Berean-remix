@@ -1,0 +1,697 @@
+Adj	<null>	Adjective
+Adj-AFP	<null>	Adjective - Accusative Feminine Plural
+Adj-AFP-C	<null>	Adjective - Accusative Feminine Plural - Comparative
+Adj-AFS	<null>	Adjective - Accusative Feminine Singular
+Adj-AFS-C	<null>	Adjective - Accusative Feminine Singular - Comparative
+Adj-AFS-S	<null>	Adjective - Accusative Feminine Singular - Superlative
+Adj-AMP	<null>	Adjective - Accusative Masculine Plural
+Adj-AMP-C	<null>	Adjective - Accusative Masculine Plural - Comparative
+Adj-AMS	<null>	Adjective - Accusative Masculine Singular
+Adj-AMS-C	<null>	Adjective - Accusative Masculine Singular - Comparative
+Adj-ANP	<null>	Adjective - Accusative Neuter Plural
+Adj-ANP-C	<null>	Adjective - Accusative Neuter Plural - Comparative
+Adj-ANP-S	<null>	Adjective - Accusative Neuter Plural - Superlative
+Adj-ANS	<null>	Adjective - Accusative Neuter Singular
+Adj-ANS-C	<null>	Adjective - Accusative Neuter Singular - Comparative
+Adj-ANS-S	<null>	Adjective - Accusative Neuter Singular - Superlative
+Adj-DFP	<null>	Adjective - Dative Feminine Plural
+Adj-DFP-C	<null>	Adjective - Dative Feminine Plural - Comparative
+Adj-DFS	<null>	Adjective - Dative Feminine Singular
+Adj-DFS-C	<null>	Adjective - Dative Feminine Singular - Comparative
+Adj-DFS-S	<null>	Adjective - Dative Feminine Singular - Superlative
+Adj-DMP	<null>	Adjective - Dative Masculine Plural
+Adj-DMP-C	<null>	Adjective - Dative Masculine Plural - Comparative
+Adj-DMS	<null>	Adjective - Dative Masculine Singular
+Adj-DMS-C	<null>	Adjective - Dative Masculine Singular - Comparative
+Adj-DMS-S	<null>	Adjective - Dative Masculine Singular - Superlative
+Adj-DNP	<null>	Adjective - Dative Neuter Plural
+Adj-DNP-S	<null>	Adjective - Dative Neuter Plural - Superlative
+Adj-DNS	<null>	Adjective - Dative Neuter Singular
+Adj-DNS-C	<null>	Adjective - Dative Neuter Singular - Comparative
+Adj-DNS-S	<null>	Adjective - Dative Neuter Singular - Superlative
+Adj-GFP	<null>	Adjective - Genitive Feminine Plural
+Adj-GFP-S	<null>	Adjective - Genitive Feminine Plural - Superlative
+Adj-GFS	<null>	Adjective - Genitive Feminine Singular
+Adj-GFS-C	<null>	Adjective - Genitive Feminine Singular - Comparative
+Adj-GMP	<null>	Adjective - Genitive Masculine Plural
+Adj-GMP-C	<null>	Adjective - Genitive Masculine Plural - Comparative
+Adj-GMP-S	<null>	Adjective - Genitive Masculine Plural - Superlative
+Adj-GMS	<null>	Adjective - Genitive Masculine Singular
+Adj-GMS-C	<null>	Adjective - Genitive Masculine Singular - Comparative
+Adj-GMS-S	<null>	Adjective - Genitive Masculine Singular - Superlative
+Adj-GNP	<null>	Adjective - Genitive Neuter Plural
+Adj-GNP-C	<null>	Adjective - Genitive Neuter Plural - Comparative
+Adj-GNP-S	<null>	Adjective - Genitive Neuter Plural - Superlative
+Adj-GNS	<null>	Adjective - Genitive Neuter Singular
+Adj-GNS-S	<null>	Adjective - Genitive Neuter Singular - Superlative
+Adj-NFP	<null>	Adjective - Nominative Feminine Plural
+Adj-NFP-C	<null>	Adjective - Nominative Feminine Plural - Comparative
+Adj-NFP-S	<null>	Adjective - Nominative Feminine Plural - Superlative
+Adj-NFS	<null>	Adjective - Nominative Feminine Singular
+Adj-NFS-C	<null>	Adjective - Nominative Feminine Singular - Comparative
+Adj-NFS-S	<null>	Adjective - Nominative Feminine Singular - Superlative
+Adj-NMP	<null>	Adjective - Nominative Masculine Plural
+Adj-NMP-C	<null>	Adjective - Nominative Masculine Plural - Comparative
+Adj-NMS	<null>	Adjective - Nominative Masculine Singular
+Adj-NMS-C	<null>	Adjective - Nominative Masculine Singular - Comparative
+Adj-NMS-S	<null>	Adjective - Nominative Masculine Singular - Superlative
+Adj-NNP	<null>	Adjective - Nominative Neuter Plural
+Adj-NNP-C	<null>	Adjective - Nominative Neuter Plural - Comparative
+Adj-NNS	<null>	Adjective - Nominative Neuter Singular
+Adj-NNS-C	<null>	Adjective - Nominative Neuter Singular - Comparative
+Adj-VFS	<null>	Adjective - Vocative Feminine Singular
+Adj-VMP	<null>	Adjective - Vocative Masculine Plural
+Adj-VMP-C	<null>	Adjective - Vocative Masculine Plural - Comparative
+Adj-VMS	<null>	Adjective - Vocative Masculine Singular
+Adj-VMS-S	<null>	Adjective - Vocative Masculine Singular - Superlative
+Adj-VNP	<null>	Adjective - Vocative Neuter Plural
+Adj-VNS	<null>	Adjective - Vocative Neuter Singular
+Adv	<null>	Adverb
+Adv	<null>	Adverb - Superlative
+Adv-C	<null>	Adverb - Comparative
+Adv-S	<null>	Adverb - Superlative
+Art-AFP	<null>	Article - Accusative Feminine Plural
+Art-AFS	<null>	Article - Accusative Feminine Singular
+Art-AMP	<null>	Article - Accusative Masculine Plural
+Art-AMS	<null>	Article - Accusative Masculine Singular
+Art-ANP	<null>	Article - Accusative Neuter Plural
+Art-ANS	<null>	Article - Accusative Neuter Singular
+Art-DFP	<null>	Article - Dative Feminine Plural
+Art-DFS	<null>	Article - Dative Feminine Singular
+Art-DMP	<null>	Article - Dative Masculine Plural
+Art-DMS	<null>	Article - Dative Masculine Singular
+Art-DNP	<null>	Article - Dative Neuter Plural
+Art-DNS	<null>	Article - Dative Neuter Singular
+Art-GFP	<null>	Article - Genitive Feminine Plural
+Art-GFS	<null>	Article - Genitive Feminine Singular
+Art-GMP	<null>	Article - Genitive Masculine Plural
+Art-GMS	<null>	Article - Genitive Masculine Singular
+Art-GNP	<null>	Article - Genitive Neuter Plural
+Art-GNS	<null>	Article - Genitive Neuter Singular
+Art-NFP	<null>	Article - Nominative Feminine Plural
+Art-NFS	<null>	Article - Nominative Feminine Singular
+Art-NMP	<null>	Article - Nominative Masculine Plural
+Art-NMS	<null>	Article - Nominative Masculine Singular
+Art-NNP	<null>	Article - Nominative Neuter Plural
+Art-NNS	<null>	Article - Nominative Neuter Singular
+Art-VFP	<null>	Article - Vocative Feminine Plural
+Art-VFS	<null>	Article - Vocative Feminine Singular
+Art-VMP	<null>	Article - Vocative Masculine Plural
+Art-VMS	<null>	Article - Vocative Masculine Singular
+Art-VNP	<null>	Article - Vocative Neuter Plural
+Art-VNS	<null>	Article - Vocative Neuter Singular
+Conj	<null>	
+Conj	<null>	Conjunction
+DPro-AFP	<null>	Demonstrative Pronoun - Accusative Feminine Plural
+DPro-AFS	<null>	Demonstrative Pronoun - Accusative Feminine Singular
+DPro-AMP	<null>	Demonstrative Pronoun - Accusative Masculine Plural
+DPro-AMS	<null>	Demonstrative Pronoun - Accusative Masculine Singular
+DPro-ANP	<null>	Demonstrative Pronoun - Accusative Neuter Plural
+DPro-ANS	<null>	Demonstrative Pronoun - Accusative Neuter Singular
+DPro-DFP	<null>	Demonstrative Pronoun - Dative Feminine Plural
+DPro-DFS	<null>	Demonstrative Pronoun - Dative Feminine Singular
+DPro-DMP	<null>	Demonstrative Pronoun - Dative Masculine Plural
+DPro-DMS	<null>	Demonstrative Pronoun - Dative Masculine Singular
+DPro-DNP	<null>	Demonstrative Pronoun - Dative Neuter Plural
+DPro-DNS	<null>	Demonstrative Pronoun - Dative Neuter Singular
+DPro-GFP	<null>	Demonstrative Pronoun - Genitive Feminine Plural
+DPro-GFS	<null>	Demonstrative Pronoun - Genitive Feminine Singular
+DPro-GMP	<null>	Demonstrative Pronoun - Genitive Masculine Plural
+DPro-GMS	<null>	Demonstrative Pronoun - Genitive Masculine Singular
+DPro-GNP	<null>	Demonstrative Pronoun - Genitive Neuter Plural
+DPro-GNS	<null>	Demonstrative Pronoun - Genitive Neuter Singular
+DPro-NFP	<null>	Demonstrative Pronoun - Nominative Feminine Plural
+DPro-NFS	<null>	Demonstrative Pronoun - Nominative Feminine Singular
+DPro-NMP	<null>	Demonstrative Pronoun - Nominative Masculine Plural
+DPro-NMS	<null>	Demonstrative Pronoun - Nominative Masculine Singular
+DPro-NNP	<null>	Demonstrative Pronoun - Nominative Neuter Plural
+DPro-NNS	<null>	Demonstrative Pronoun - Nominative Neuter Singular
+Heb	<null>	Hebrew Word
+Heb	<null>	Hebrew Word 
+I	<null>	Interjection
+Indec	<null>	Indec
+IntPrtcl	<null>	IntPrtcl
+IPro-AFP	<null>	Interrogative / Indefinite Pronoun - Accusative Feminine Plural
+IPro-AFS	<null>	Interrogative / Indefinite Pronoun - Accusative Feminine Singular
+IPro-AMP	<null>	Interrogative / Indefinite Pronoun - Accusative Masculine Plural
+IPro-AMS	<null>	Interrogative / Indefinite Pronoun - Accusative Masculine Singular
+IPro-ANP	<null>	Interrogative / Indefinite Pronoun - Accusative Neuter Plural
+IPro-ANS	<null>	Interrogative / Indefinite Pronoun - Accusative Neuter Singular
+IPro-DFS	<null>	Interrogative / Indefinite Pronoun - Dative Feminine Singular
+IPro-DMP	<null>	Interrogative / Indefinite Pronoun - Dative Masculine Plural
+IPro-DMS	<null>	Interrogative / Indefinite Pronoun - Dative Masculine Singular
+IPro-DNS	<null>	Interrogative / Indefinite Pronoun - Dative Neuter Singular
+IPro-GFP	<null>	Interrogative / Indefinite Pronoun - Genitive Feminine Plural
+IPro-GFS	<null>	Interrogative / Indefinite Pronoun - Genitive Feminine Singular
+IPro-GMP	<null>	Interrogative / Indefinite Pronoun - Genitive Masculine Plural
+IPro-GMS	<null>	Interrogative / Indefinite Pronoun - Genitive Masculine Singular
+IPro-GNP	<null>	Interrogative / Indefinite Pronoun - Genitive Neuter Plural
+IPro-GNS	<null>	Interrogative / Indefinite Pronoun - Genitive Neuter Singular
+IPro-NFP	<null>	Interrogative / Indefinite Pronoun - Nominative Feminine Plural
+IPro-NFS	<null>	Interrogative / Indefinite Pronoun - Nominative Feminine Singular
+IPro-NMP	<null>	Interrogative / Indefinite Pronoun - Nominative Masculine Plural
+IPro-NMS	<null>	Interrogative / Indefinite Pronoun - Nominative Masculine Singular
+IPro-NNP	<null>	Interrogative / Indefinite Pronoun - Nominative Neuter Plural
+IPro-NNS	<null>	Interrogative / Indefinite Pronoun - Nominative Neuter Singular
+N	<null>	Noun
+N-AFP	<null>	Noun - Accusative Feminine Plural
+N-AFS	<null>	Noun - Accusative Feminine Singular
+N-AMP	<null>	Noun - Accusative Masculine Plural
+N-AMS	<null>	Noun - Accusative Masculine Singular
+N-ANP	<null>	Noun - Accusative Neuter Plural
+N-ANS	<null>	Noun - Accusative Neuter Singular
+N-DFP	<null>	Noun - Dative Feminine Plural
+N-DFS	<null>	Noun - Dative Feminine Singular
+N-DMP	<null>	Noun - Dative Masculine Plural
+N-DMS	<null>	Noun - Dative Masculine Singular
+N-DNP	<null>	Noun - Dative Neuter Plural
+N-DNS	<null>	Noun - Dative Neuter Singular
+N-GFP	<null>	Noun - Genitive Feminine Plural
+N-GFS	<null>	Noun - Genitive Feminine Singular
+N-GMP	<null>	Noun - Genitive Masculine Plural
+N-GMS	<null>	Noun - Genitive Masculine Singular
+N-GNP	<null>	Noun - Genitive Neuter Plural
+N-GNS	<null>	Noun - Genitive Neuter Singular
+N-NFP	<null>	Noun - Nominative Feminine Plural
+N-NFS	<null>	Noun - Nominative Feminine Singular
+N-NMP	<null>	Noun - Nominative Masculine Plural
+N-NMS	<null>	Noun - Nominative Masculine Singular
+N-NNP	<null>	Noun - Nominative Neuter Plural
+N-NNS	<null>	Noun - Nominative Neuter Singular
+N-VFP	<null>	Noun - Vocative Feminine Plural
+N-VFS	<null>	Noun - Vocative Feminine Singular
+N-VMP	<null>	Noun - Vocative Masculine Plural
+N-VMS	<null>	Noun - Vocative Masculine Singular
+N-VNP	<null>	Noun - Vocative Neuter Plural
+N-VNS	<null>	Noun - Vocative Neuter Singular
+PPro-A1P	<null>	Personal / Possessive Pronoun - Accusative 1st Person Plural
+PPro-A1S	<null>	Personal / Possessive Pronoun - Accusative 1st Person Singular
+PPro-A2P	<null>	
+PPro-A2P	<null>	Personal / Possessive Pronoun - Accusative 2nd Person Plural
+PPro-A2S	<null>	Personal / Possessive Pronoun - Accusative 2nd Person Singular
+PPro-AF1P	<null>	Personal / Possessive Pronoun - Accusative Feminine 1st Person Plural
+PPro-AF1S	<null>	Personal / Possessive Pronoun - Accusative Feminine 1st Person Singular
+PPro-AF2P	<null>	Personal / Possessive Pronoun - Accusative Feminine 2nd Person Plural
+PPro-AF2S	<null>	Personal / Possessive Pronoun - Accusative Feminine 2nd Person Singular
+PPro-AF3P	<null>	Personal / Possessive Pronoun - Accusative Feminine 3rd Person Plural
+PPro-AF3S	<null>	Personal / Possessive Pronoun - Accusative Feminine 3rd Person Singular
+PPro-AM1P	<null>	Personal / Possessive Pronoun - Accusative Masculine 1st Person Plural
+PPro-AM1S	<null>	Personal / Possessive Pronoun - Accusative Masculine 1st Person Singular
+PPro-AM2P	<null>	Personal / Possessive Pronoun - Accusative Masculine 2nd Person Plural
+PPro-AM2S	<null>	Personal / Possessive Pronoun - Accusative Masculine 2nd Person Singular
+PPro-AM3P	<null>	Personal / Possessive Pronoun - Accusative Masculine 3rd Person Plural
+PPro-AM3S	<null>	Personal / Possessive Pronoun - Accusative Masculine 3rd Person Singular
+PPro-AN1P	<null>	Personal / Possessive Pronoun - Accusative Neuter 1st Person Plural
+PPro-AN1S	<null>	Personal / Possessive Pronoun - Accusative Neuter 1st Person Singular
+PPro-AN2P	<null>	Personal / Possessive Pronoun - Accusative Neuter 2nd Person Plural
+PPro-AN2S	<null>	Personal / Possessive Pronoun - Accusative Neuter 2nd Person Singular
+PPro-AN3P	<null>	Personal / Possessive Pronoun - Accusative Neuter 3rd Person Plural
+PPro-AN3S	<null>	Personal / Possessive Pronoun - Accusative Neuter 3rd Person Singular
+PPro-D1P	<null>	Personal / Possessive Pronoun - Dative 1st Person Plural
+PPro-D1S	<null>	Personal / Possessive Pronoun - Dative 1st Person Singular
+PPro-D2P	<null>	Personal / Possessive Pronoun - Dative 2nd Person Plural
+PPro-D2S	<null>	Personal / Possessive Pronoun - Dative 2nd Person Singular
+PPro-DF1P	<null>	Personal / Possessive Pronoun - Dative Feminine 1st Person Plural
+PPro-DF1S	<null>	Personal / Possessive Pronoun - Dative Feminine 1st Person Singular
+PPro-DF2P	<null>	Personal / Possessive Pronoun - Dative Feminine 2nd Person Plural
+PPro-DF2S	<null>	Personal / Possessive Pronoun - Dative Feminine 2nd Person Singular
+PPro-DF3P	<null>	Personal / Possessive Pronoun - Dative Feminine 3rd Person Plural
+PPro-DF3S	<null>	Personal / Possessive Pronoun - Dative Feminine 3rd Person Singular
+PPro-DM1P	<null>	Personal / Possessive Pronoun - Dative Masculine 1st Person Plural
+PPro-DM1S	<null>	Personal / Possessive Pronoun - Dative Masculine 1st Person Singular
+PPro-DM2P	<null>	Personal / Possessive Pronoun - Dative Masculine 2nd Person Plural
+PPro-DM2S	<null>	Personal / Possessive Pronoun - Dative Masculine 2nd Person Singular
+PPro-DM3P	<null>	Personal / Possessive Pronoun - Dative Masculine 3rd Person Plural
+PPro-DM3S	<null>	Personal / Possessive Pronoun - Dative Masculine 3rd Person Singular
+PPro-DN1P	<null>	Personal / Possessive Pronoun - Dative Neuter 1st Person Plural
+PPro-DN1S	<null>	Personal / Possessive Pronoun - Dative Neuter 1st Person Singular
+PPro-DN3P	<null>	Personal / Possessive Pronoun - Dative Neuter 3rd Person Plural
+PPro-DN3S	<null>	Personal / Possessive Pronoun - Dative Neuter 3rd Person Singular
+PPro-G1P	<null>	Personal / Possessive Pronoun - Genitive 1st Person Plural
+PPro-G1S	<null>	Personal / Possessive Pronoun - Genitive 1st Person Singular
+PPro-G2P	<null>	Personal / Possessive Pronoun - Genitive 2nd Person Plural
+PPro-G2S	<null>	Personal / Possessive Pronoun - Genitive 2nd Person Singular
+PPro-GF1P	<null>	Personal / Possessive Pronoun - Genitive Feminine 1st Person Plural
+PPro-GF1S	<null>	Personal / Possessive Pronoun - Genitive Feminine 1st Person Singular
+PPro-GF2P	<null>	Personal / Possessive Pronoun - Genitive Feminine 2nd Person Plural
+PPro-GF2S	<null>	Personal / Possessive Pronoun - Genitive Feminine 2nd Person Singular
+PPro-GF3P	<null>	Personal / Possessive Pronoun - Genitive Feminine 3rd Person Plural
+PPro-GF3S	<null>	Personal / Possessive Pronoun - Genitive Feminine 3rd Person Singular
+PPro-GM1S	<null>	Personal / Possessive Pronoun - Genitive Masculine 1st Person Singular
+PPro-GM2S	<null>	Personal / Possessive Pronoun - Genitive Masculine 2nd Person Singular
+PPro-GM3P	<null>	Personal / Possessive Pronoun - Genitive Masculine 3rd Person Plural
+PPro-GM3S	<null>	Personal / Possessive Pronoun - Genitive Masculine 3rd Person Singular
+PPro-GN1P	<null>	Personal / Possessive Pronoun - Genitive Neuter 1st Person Plural
+PPro-GN3P	<null>	Personal / Possessive Pronoun - Genitive Neuter 3rd Person Plural
+PPro-GN3S	<null>	Personal / Possessive Pronoun - Genitive Neuter 3rd Person Singular
+PPro-N1P	<null>	Personal / Possessive Pronoun - Nominative 1st Person Plural
+PPro-N1S	<null>	Personal / Possessive Pronoun - Nominative 1st Person Singular
+PPro-N2P	<null>	Personal / Possessive Pronoun - Nominative 2nd Person Plural
+PPro-N2S	<null>	Personal / Possessive Pronoun - Nominative 2nd Person Singular
+PPro-NF1P	<null>	Personal / Possessive Pronoun - Nominative Feminine 1st Person Plural
+PPro-NF1S	<null>	Personal / Possessive Pronoun - Nominative Feminine 1st Person Singular
+PPro-NF2P	<null>	Personal / Possessive Pronoun - Nominative Feminine 2nd Person Plural
+PPro-NF3S	<null>	Personal / Possessive Pronoun - Nominative Feminine 3rd Person Singular
+PPro-NFS	<null>	Personal / Possessive Pronoun - Nominative Feminine Singular
+PPro-NM1P	<null>	Personal / Possessive Pronoun - Nominative Masculine 1st Person Plural
+PPro-NM1S	<null>	Personal / Possessive Pronoun - Nominative Masculine 1st Person Singular
+PPro-NM2P	<null>	Personal / Possessive Pronoun - Nominative Masculine 2nd Person Plural
+PPro-NM2S	<null>	Personal / Possessive Pronoun - Nominative Masculine 2nd Person Singular
+PPro-NM3P	<null>	Personal / Possessive Pronoun - Nominative Masculine 3rd Person Plural
+PPro-NM3S	<null>	Personal / Possessive Pronoun - Nominative Masculine 3rd Person Singular
+PPro-NN1P	<null>	Personal / Possessive Pronoun - Nominative Neuter 1st Person Plural
+PPro-NN1S	<null>	Personal / Possessive Pronoun - Nominative Neuter 1st Person Singular
+PPro-NN2P	<null>	Personal / Possessive Pronoun - Nominative Neuter 2nd Person Plural
+PPro-NN2S	<null>	Personal / Possessive Pronoun - Nominative Neuter 2nd Person Singular
+PPro-NN3P	<null>	Personal / Possessive Pronoun - Nominative Neuter 3rd Person Plural
+PPro-NN3S	<null>	Personal / Possessive Pronoun - Nominative Neuter 3rd Person Singular
+Prep	<null>	Preposition
+Prtcl	<null>	Particle
+RecPro-AMP	<null>	Personal / Reciprocal Pronoun - Accusative Masculine Plural
+RecPro-DMP	<null>	Personal / Reciprocal Pronoun - Dative Masculine Plural
+RecPro-DNP	<null>	Personal / Reciprocal Pronoun - Dative Neuter Plural
+RecPro-GMP	<null>	Personal / Reciprocal Pronoun - Genitive Masculine Plural
+RefPro-AF3P	<null>	Reflexive Pronoun - Accusative Feminine 3rd Person Plural
+RefPro-AF3S	<null>	Reflexive Pronoun - Accusative Feminine 3rd Person Singular
+RefPro-AM3P	<null>	Reflexive Pronoun - Accusative Masculine 3rd Person Plural
+RefPro-AM3S	<null>	Reflexive Pronoun - Accusative Masculine 3rd Person Singular
+RefPro-AN3P	<null>	Reflexive Pronoun - Accusative Neuter 3rd Person Plural
+RefPro-DF3P	<null>	Reflexive Pronoun - Dative Feminine 3rd Person Plural
+RefPro-DF3S	<null>	Reflexive Pronoun - Dative Feminine 3rd Person Singular
+RefPro-DM3P	<null>	Reflexive Pronoun - Dative Masculine 3rd Person Plural
+RefPro-DM3S	<null>	Reflexive Pronoun - Dative Masculine 3rd Person Singular
+RefPro-GF3P	<null>	Reflexive Pronoun - Genitive Feminine 3rd Person Plural
+RefPro-GF3S	<null>	Reflexive Pronoun - Genitive Feminine 3rd Person Singular
+RefPro-GM3P	<null>	Reflexive Pronoun - Genitive Masculine 3rd Person Plural
+RefPro-GM3S	<null>	Reflexive Pronoun - Genitive Masculine 3rd Person Singular
+RefPro-GN3P	<null>	Reflexive Pronoun - Genitive Neuter 3rd Person Plural
+RefPro-GN3S	<null>	Reflexive Pronoun - Genitive Neuter 3rd Person Singular
+RelPro-AFP	<null>	Personal / Relative Pronoun - Accusative Feminine Plural
+RelPro-AFS	<null>	Personal / Relative Pronoun - Accusative Feminine Singular
+RelPro-AMP	<null>	Personal / Relative Pronoun - Accusative Masculine Plural
+RelPro-AMS	<null>	Personal / Relative Pronoun - Accusative Masculine Singular
+RelPro-ANP	<null>	Personal / Relative Pronoun - Accusative Neuter Plural
+RelPro-ANS	<null>	Personal / Relative Pronoun - Accusative Neuter Singular
+RelPro-DFP	<null>	Personal / Relative Pronoun - Dative Feminine Plural
+RelPro-DFS	<null>	Personal / Relative Pronoun - Dative Feminine Singular
+RelPro-DMP	<null>	Personal / Relative Pronoun - Dative Masculine Plural
+RelPro-DMS	<null>	Personal / Relative Pronoun - Dative Masculine Singular
+RelPro-DNP	<null>	Personal / Relative Pronoun - Dative Neuter Plural
+RelPro-DNS	<null>	Personal / Relative Pronoun - Dative Neuter Singular
+RelPro-GFP	<null>	Personal / Relative Pronoun - Genitive Feminine Plural
+RelPro-GFS	<null>	Personal / Relative Pronoun - Genitive Feminine Singular
+RelPro-GMP	<null>	Personal / Relative Pronoun - Genitive Masculine Plural
+RelPro-GMS	<null>	Personal / Relative Pronoun - Genitive Masculine Singular
+RelPro-GNP	<null>	Personal / Relative Pronoun - Genitive Neuter Plural
+RelPro-GNS	<null>	Personal / Relative Pronoun - Genitive Neuter Singular
+RelPro-NFP	<null>	Personal / Relative Pronoun - Nominative Feminine Plural
+RelPro-NFS	<null>	Personal / Relative Pronoun - Nominative Feminine Singular
+RelPro-NMP	<null>	Personal / Relative Pronoun - Nominative Masculine Plural
+RelPro-NMS	<null>	Personal / Relative Pronoun - Nominative Masculine Singular
+RelPro-NNP	<null>	Personal / Relative Pronoun - Nominative Neuter Plural
+RelPro-NNS	<null>	Personal / Relative Pronoun - Nominative Neuter Singular
+V-AIA-1P	<null>	Verb - Aorist Indicative Active - 1st Person Plural
+V-AIA-1S	<null>	Verb - Aorist Indicative Active - 1st Person Singular
+V-AIA-2P	<null>	Verb - Aorist Indicative Active - 2nd Person Plural
+V-AIA-2S	<null>	Verb - Aorist Indicative Active - 2nd Person Singular
+V-AIA-3P	<null>	Verb - Aorist Indicative Active - 3rd Person Plural
+V-AIA-3S	<null>	Verb - Aorist Indicative Active - 3rd Person Singular
+V-AIM-1P	<null>	Verb - Aorist Indicative Middle - 1st Person Plural
+V-AIM-1S	<null>	Verb - Aorist Indicative Middle - 1st Person Singular
+V-AIM-2P	<null>	Verb - Aorist Indicative Middle - 2nd Person Plural
+V-AIM-2S	<null>	Verb - Aorist Indicative Middle - 2nd Person Singular
+V-AIM-3P	<null>	Verb - Aorist Indicative Middle - 3rd Person Plural
+V-AIM-3S	<null>	Verb - Aorist Indicative Middle - 3rd Person Singular
+V-AIP-1P	<null>	Verb - Aorist Indicative Passive - 1st Person Plural
+V-AIP-1S	<null>	Verb - Aorist Indicative Passive - 1st Person Singular
+V-AIP-2P	<null>	Verb - Aorist Indicative Passive - 2nd Person Plural
+V-AIP-2S	<null>	Verb - Aorist Indicative Passive - 2nd Person Singular
+V-AIP-3P	<null>	Verb - Aorist Indicative Passive - 3rd Person Plural
+V-AIP-3S	<null>	Verb - Aorist Indicative Passive - 3rd Person Singular
+V-AMA-2P	<null>	Verb - Aorist Imperative Active - 2nd Person Plural
+V-AMA-2S	<null>	Verb - Aorist Imperative Active - 2nd Person Singular
+V-AMA-3P	<null>	Verb - Aorist Imperative Active - 3rd Person Plural
+V-AMA-3S	<null>	Verb - Aorist Imperative Active - 3rd Person Singular
+V-AMM-2P	<null>	Verb - Aorist Imperative Middle - 2nd Person Plural
+V-AMM-2S	<null>	Verb - Aorist Imperative Middle - 2nd Person Singular
+V-AMM-3P	<null>	Verb - Aorist Imperative Middle - 3rd Person Plural
+V-AMM-3S	<null>	Verb - Aorist Imperative Middle - 3rd Person Singular
+V-AMP-2P	<null>	Verb - Aorist Imperative Passive - 2nd Person Plural
+V-AMP-2S	<null>	Verb - Aorist Imperative Passive - 2nd Person Singular
+V-AMP-3P	<null>	Verb - Aorist Imperative Passive - 3rd Person Plural
+V-AMP-3S	<null>	Verb - Aorist Imperative Passive - 3rd Person Singular
+V-ANA	<null>	Verb - Aorist Infinitive Active
+V-ANM	<null>	Verb - Aorist Infinitive Middle
+V-ANM-3S	<null>	Verb - Aorist Infinitive Middle - 3rd Person Singular
+V-ANM/P	<null>	Verb - Aorist Infinitive Middle or Passive
+V-ANP	<null>	Verb - Aorist Infinitive Passive
+V-AOA-3P	<null>	Verb - Aorist Optative Active - 3rd Person Plural
+V-AOA-3S	<null>	Verb - Aorist Optative Active - 3rd Person Singular
+V-AOM-1S	<null>	Verb - Aorist Optative Middle - 1st Person Singular
+V-AOM-3S	<null>	Verb - Aorist Optative Middle - 3rd Person Singular
+V-AOP-3S	<null>	Verb - Aorist Optative Passive - 3rd Person Singular
+V-APA-AFP	<null>	Verb - Aorist Participle Active - Accusative Feminine Plural
+V-APA-AFS	<null>	Verb - Aorist Participle Active - Accusative Feminine Singular
+V-APA-AMP	<null>	Verb - Aorist Participle Active - Accusative Masculine Plural
+V-APA-AMS	<null>	Verb - Aorist Participle Active - Accusative Masculine Singular
+V-APA-ANP	<null>	Verb - Aorist Participle Active - Accusative Neuter Plural
+V-APA-ANS	<null>	Verb - Aorist Participle Active - Accusative Neuter Singular
+V-APA-DFP	<null>	Verb - Aorist Participle Active - Dative Feminine Plural
+V-APA-DFS	<null>	Verb - Aorist Participle Active - Dative Feminine Singular
+V-APA-DMP	<null>	Verb - Aorist Participle Active - Dative Masculine Plural
+V-APA-DMS	<null>	Verb - Aorist Participle Active - Dative Masculine Singular
+V-APA-GFS	<null>	Verb - Aorist Participle Active - Genitive Feminine Singular
+V-APA-GMP	<null>	Verb - Aorist Participle Active - Genitive Masculine Plural
+V-APA-GMS	<null>	Verb - Aorist Participle Active - Genitive Masculine Singular
+V-APA-GNS	<null>	Verb - Aorist Participle Active - Genitive Neuter Singular
+V-APA-NFP	<null>	Verb - Aorist Participle Active - Nominative Feminine Plural
+V-APA-NFS	<null>	Verb - Aorist Participle Active - Nominative Feminine Singular
+V-APA-NMP	<null>	Verb - Aorist Participle Active - Nominative Masculine Plural
+V-APA-NMS	<null>	Verb - Aorist Participle Active - Nominative Masculine Singular
+V-APA-NNP	<null>	Verb - Aorist Participle Active - Nominative Neuter Plural
+V-APA-NNS	<null>	Verb - Aorist Participle Active - Nominative Neuter Singular
+V-APM-AFS	<null>	Verb - Aorist Participle Middle - Accusative Feminine Singular
+V-APM-AMP	<null>	Verb - Aorist Participle Middle - Accusative Masculine Plural
+V-APM-AMS	<null>	Verb - Aorist Participle Middle - Accusative Masculine Singular
+V-APM-ANP	<null>	Verb - Aorist Participle Middle - Accusative Neuter Plural
+V-APM-ANS	<null>	Verb - Aorist Participle Middle - Accusative Neuter Singular
+V-APM-DMP	<null>	Verb - Aorist Participle Middle - Dative Masculine Plural
+V-APM-DNP	<null>	Verb - Aorist Participle Middle - Dative Neuter Plural
+V-APM-GFP	<null>	Verb - Aorist Participle Middle - Genitive Feminine Plural
+V-APM-GFS	<null>	Verb - Aorist Participle Middle - Genitive Feminine Singular
+V-APM-GMP	<null>	Verb - Aorist Participle Middle - Genitive Masculine Plural
+V-APM-GMS	<null>	Verb - Aorist Participle Middle - Genitive Masculine Singular
+V-APM-GNP	<null>	Verb - Aorist Participle Middle - Genitive Neuter Plural
+V-APM-GNS	<null>	Verb - Aorist Participle Middle - Genitive Neuter Singular
+V-APM-NFP	<null>	Verb - Aorist Participle Middle - Nominative Feminine Plural
+V-APM-NFS	<null>	Verb - Aorist Participle Middle - Nominative Feminine Singular
+V-APM-NMP	<null>	Verb - Aorist Participle Middle - Nominative Masculine Plural
+V-APM-NMS	<null>	Verb - Aorist Participle Middle - Nominative Masculine Singular
+V-APM-NNS	<null>	Verb - Aorist Participle Middle - Nominative Neuter Singular
+V-APM/P-ANP	<null>	Verb - Aorist Participle Middle or Passive - Accusative Neuter Plural
+V-APM/P-GFS	<null>	Verb - Aorist Participle Middle or Passive - Genitive Feminine Singular
+V-APM/P-NMS	<null>	Verb - Aorist Participle Middle or Passive - Nominative Masculine Singular
+V-APP-AFS	<null>	Verb - Aorist Participle Passive - Accusative Feminine Singular
+V-APP-AMP	<null>	Verb - Aorist Participle Passive - Accusative Masculine Plural
+V-APP-AMS	<null>	Verb - Aorist Participle Passive - Accusative Masculine Singular
+V-APP-ANP	<null>	Verb - Aorist Participle Passive - Accusative Neuter Plural
+V-APP-ANS	<null>	Verb - Aorist Participle Passive - Accusative Neuter Singular
+V-APP-DFS	<null>	Verb - Aorist Participle Passive - Dative Feminine Singular
+V-APP-DMS	<null>	Verb - Aorist Participle Passive - Dative Masculine Singular
+V-APP-DNP	<null>	Verb - Aorist Participle Passive - Dative Neuter Plural
+V-APP-DNS	<null>	Verb - Aorist Participle Passive - Dative Neuter Singular
+V-APP-GFP	<null>	Verb - Aorist Participle Passive - Genitive Feminine Plural
+V-APP-GFS	<null>	Verb - Aorist Participle Passive - Genitive Feminine Singular
+V-APP-GMP	<null>	Verb - Aorist Participle Passive - Genitive Masculine Plural
+V-APP-GMS	<null>	Verb - Aorist Participle Passive - Genitive Masculine Singular
+V-APP-GNP	<null>	Verb - Aorist Participle Passive - Genitive Neuter Plural
+V-APP-GNS	<null>	Verb - Aorist Participle Passive - Genitive Neuter Singular
+V-APP-NFP	<null>	Verb - Aorist Participle Passive - Nominative Feminine Plural
+V-APP-NFS	<null>	Verb - Aorist Participle Passive - Nominative Feminine Singular
+V-APP-NMP	<null>	Verb - Aorist Participle Passive - Nominative Masculine Plural
+V-APP-NMS	<null>	Verb - Aorist Participle Passive - Nominative Masculine Singular
+V-APP-NNP	<null>	Verb - Aorist Participle Passive - Nominative Neuter Plural
+V-APP-NNS	<null>	Verb - Aorist Participle Passive - Nominative Neuter Singular
+V-ASA-1P	<null>	Verb - Aorist Subjunctive Active - 1st Person Plural
+V-ASA-1S	<null>	Verb - Aorist Subjunctive Active - 1st Person Singular
+V-ASA-2P	<null>	Verb - Aorist Subjunctive Active - 2nd Person Plural
+V-ASA-2S	<null>	Verb - Aorist Subjunctive Active - 2nd Person Singular
+V-ASA-3P	<null>	Verb - Aorist Subjunctive Active - 3rd Person Plural
+V-ASA-3S	<null>	Verb - Aorist Subjunctive Active - 3rd Person Singular
+V-ASM-1P	<null>	Verb - Aorist Subjunctive Middle - 1st Person Plural
+V-ASM-1S	<null>	Verb - Aorist Subjunctive Middle - 1st Person Singular
+V-ASM-2P	<null>	Verb - Aorist Subjunctive Middle - 2nd Person Plural
+V-ASM-2S	<null>	Verb - Aorist Subjunctive Middle - 2nd Person Singular
+V-ASM-3P	<null>	Verb - Aorist Subjunctive Middle - 3rd Person Plural
+V-ASM-3S	<null>	Verb - Aorist Subjunctive Middle - 3rd Person Singular
+V-ASP-1P	<null>	Verb - Aorist Subjunctive Passive - 1st Person Plural
+V-ASP-1S	<null>	Verb - Aorist Subjunctive Passive - 1st Person Singular
+V-ASP-2P	<null>	Verb - Aorist Subjunctive Passive - 2nd Person Plural
+V-ASP-2S	<null>	Verb - Aorist Subjunctive Passive - 2nd Person Singular
+V-ASP-3P	<null>	Verb - Aorist Subjunctive Passive - 3rd Person Plural
+V-ASP-3S	<null>	Verb - Aorist Subjunctive Passive - 3rd Person Singular
+V-FI-3P	<null>	Verb - Future Indicative - 3rd Person Plural
+V-FIA-1P	<null>	Verb - Future Indicative Active - 1st Person Plural
+V-FIA-1S	<null>	Verb - Future Indicative Active - 1st Person Singular
+V-FIA-2P	<null>	Verb - Future Indicative Active - 2nd Person Plural
+V-FIA-2S	<null>	Verb - Future Indicative Active - 2nd Person Singular
+V-FIA-3P	<null>	Verb - Future Indicative Active - 3rd Person Plural
+V-FIA-3S	<null>	Verb - Future Indicative Active - 3rd Person Singular
+V-FIM-1P	<null>	Verb - Future Indicative Middle - 1st Person Plural
+V-FIM-1S	<null>	Verb - Future Indicative Middle - 1st Person Singular
+V-FIM-2P	<null>	Verb - Future Indicative Middle - 2nd Person Plural
+V-FIM-2S	<null>	Verb - Future Indicative Middle - 2nd Person Singular
+V-FIM-3P	<null>	Verb - Future Indicative Middle - 3rd Person Plural
+V-FIM-3S	<null>	Verb - Future Indicative Middle - 3rd Person Singular
+V-FIM/P-2P	<null>	Verb - Future Indicative Middle or Passive - 2nd Person Plural
+V-FIP-1P	<null>	Verb - Future Indicative Passive - 1st Person Plural
+V-FIP-1S	<null>	Verb - Future Indicative Passive - 1st Person Singular
+V-FIP-2P	<null>	Verb - Future Indicative Passive - 2nd Person Plural
+V-FIP-2S	<null>	Verb - Future Indicative Passive - 2nd Person Singular
+V-FIP-3P	<null>	Verb - Future Indicative Passive - 3rd Person Plural
+V-FIP-3S	<null>	Verb - Future Indicative Passive - 3rd Person Singular
+V-FNA	<null>	Verb - Future Infinitive Active
+V-FNM	<null>	Verb - Future Infinitive Middle
+V-FPA-ANP	<null>	Verb - Future Participle Active - Accusative Neuter Plural
+V-FPA-NMP	<null>	Verb - Future Participle Active - Nominative Masculine Plural
+V-FPA-NMS	<null>	Verb - Future Participle Active - Nominative Masculine Singular
+V-FPM-ANS	<null>	Verb - Future Participle Middle - Accusative Neuter Singular
+V-FPP-GNP	<null>	Verb - Future Participle Passive - Genitive Neuter Plural
+V-IIA-1P	<null>	Verb - Imperfect Indicative Active - 1st Person Plural
+V-IIA-1S	<null>	Verb - Imperfect Indicative Active - 1st Person Singular
+V-IIA-2P	<null>	Verb - Imperfect Indicative Active - 2nd Person Plural
+V-IIA-2S	<null>	Verb - Imperfect Indicative Active - 2nd Person Singular
+V-IIA-3P	<null>	Verb - Imperfect Indicative Active - 3rd Person Plural
+V-IIA-3S	<null>	Verb - Imperfect Indicative Active - 3rd Person Singular
+V-IIM-1P	<null>	Verb - Imperfect Indicative Middle - 1st Person Plural
+V-IIM-1S	<null>	Verb - Imperfect Indicative Middle - 1st Person Singular
+V-IIM-2S	<null>	Verb - Imperfect Indicative Middle - 2nd Person Singular
+V-IIM-3P	<null>	Verb - Imperfect Indicative Middle - 3rd Person Plural
+V-IIM-3S	<null>	Verb - Imperfect Indicative Middle - 3rd Person Singular
+V-IIM/P-1P	<null>	Verb - Imperfect Indicative Middle or Passive - 1st Person Plural
+V-IIM/P-1S	<null>	Verb - Imperfect Indicative Middle or Passive - 1st Person Singular
+V-IIM/P-2P	<null>	Verb - Imperfect Indicative Middle or Passive - 2nd Person Plural
+V-IIM/P-2S	<null>	Verb - Imperfect Indicative Middle or Passive - 2nd Person Singular
+V-IIM/P-3P	<null>	Verb - Imperfect Indicative Middle or Passive - 3rd Person Plural
+V-IIM/P-3S	<null>	Verb - Imperfect Indicative Middle or Passive - 3rd Person Singular
+V-IIP-1P	<null>	Verb - Imperfect Indicative Passive - 1st Person Plural
+V-IIP-3P	<null>	Verb - Imperfect Indicative Passive - 3rd Person Plural
+V-IIP-3S	<null>	Verb - Imperfect Indicative Passive - 3rd Person Singular
+V-LIA-1S	<null>	Verb - Pluperfect Indicative Active - 1st Person Singular
+V-LIA-2P	<null>	Verb - Pluperfect Indicative Active - 2nd Person Plural
+V-LIA-2S	<null>	Verb - Pluperfect Indicative Active - 2nd Person Singular
+V-LIA-3P	<null>	Verb - Pluperfect Indicative Active - 3rd Person Plural
+V-LIA-3S	<null>	Verb - Pluperfect Indicative Active - 3rd Person Singular
+V-LIM-3P	<null>	Verb - Pluperfect Indicative Middle - 3rd Person Plural
+V-LIM-3S	<null>	Verb - Pluperfect Indicative Middle - 3rd Person Singular
+V-LIM/P-3S	<null>	Verb - Pluperfect Indicative Middle or Passive - 3rd Person Singular
+V-M-2P	<null>	Verb - Imperative - 2nd Person Plural
+V-M-2S	<null>	Verb - Imperative - 2nd Person Singular
+V-PI-3S	<null>	Verb - Present Indicative - 3rd Person Singular
+V-PIA-1P	<null>	Verb - Present Indicative Active - 1st Person Plural
+V-PIA-1S	<null>	Verb - Present Indicative Active - 1st Person Singular
+V-PIA-2P	<null>	Verb - Present Indicative Active - 2nd Person Plural
+V-PIA-2S	<null>	Verb - Present Indicative Active - 2nd Person Singular
+V-PIA-3P	<null>	Verb - Present Indicative Active - 3rd Person Plural
+V-PIA-3S	<null>	Verb - Present Indicative Active - 3rd Person Singular
+V-PIM-1P	<null>	Verb - Present Indicative Middle - 1st Person Plural
+V-PIM-1S	<null>	Verb - Present Indicative Middle - 1st Person Singular
+V-PIM-2P	<null>	Verb - Present Indicative Middle - 2nd Person Plural
+V-PIM-3P	<null>	Verb - Present Indicative Middle - 3rd Person Plural
+V-PIM-3S	<null>	Verb - Present Indicative Middle - 3rd Person Singular
+V-PIM/P-1P	<null>	Verb - Present Indicative Middle or Passive - 1st Person Plural
+V-PIM/P-1S	<null>	Verb - Present Indicative Middle or Passive - 1st Person Singular
+V-PIM/P-2P	<null>	Verb - Present Indicative Middle or Passive - 2nd Person Plural
+V-PIM/P-2S	<null>	Verb - Present Indicative Middle or Passive - 2nd Person Singular
+V-PIM/P-3P	<null>	Verb - Present Indicative Middle or Passive - 3rd Person Plural
+V-PIM/P-3S	<null>	Verb - Present Indicative Middle or Passive - 3rd Person Singular
+V-PIP-1S	<null>	Verb - Present Indicative Passive - 1st Person Singular
+V-PIP-3S	<null>	Verb - Present Indicative Passive - 3rd Person Singular
+V-PMA-2P	<null>	Verb - Present Imperative Active - 2nd Person Plural
+V-PMA-2S	<null>	Verb - Present Imperative Active - 2nd Person Singular
+V-PMA-3P	<null>	Verb - Present Imperative Active - 3rd Person Plural
+V-PMA-3S	<null>	Verb - Present Imperative Active - 3rd Person Singular
+V-PMM-2P	<null>	Verb - Present Imperative Middle - 2nd Person Plural
+V-PMM-2S	<null>	Verb - Present Imperative Middle - 2nd Person Singular
+V-PMM/P-2P	<null>	Verb - Present Imperative Middle or Passive - 2nd Person Plural
+V-PMM/P-2S	<null>	Verb - Present Imperative Middle or Passive - 2nd Person Singular
+V-PMM/P-3P	<null>	Verb - Present Imperative Middle or Passive - 3rd Person Plural
+V-PMM/P-3S	<null>	Verb - Present Imperative Middle or Passive - 3rd Person Singular
+V-PMP-2P	<null>	Verb - Present Imperative Passive - 2nd Person Plural
+V-PMP-3S	<null>	Verb - Present Imperative Passive - 3rd Person Singular
+V-PNA	<null>	Verb - Present Infinitive Active
+V-PNM	<null>	Verb - Present Infinitive Middle
+V-PNM/P	<null>	Verb - Present Infinitive Middle or Passive
+V-PNP	<null>	Verb - Present Infinitive Passive
+V-POA-2P	<null>	Verb - Present Optative Active - 2nd Person Plural
+V-POA-3P	<null>	Verb - Present Optative Active - 3rd Person Plural
+V-POA-3S	<null>	Verb - Present Optative Active - 3rd Person Singular
+V-POM/P-1S	<null>	Verb - Present Optative Middle or Passive - 1st Person Singular
+V-POM/P-3P	<null>	Verb - Present Optative Middle or Passive - 3rd Person Plural
+V-POM/P-3S	<null>	Verb - Present Optative Middle or Passive - 3rd Person Singular
+V-PPA-AFP	<null>	Verb - Present Participle Active - Accusative Feminine Plural
+V-PPA-AFS	<null>	Verb - Present Participle Active - Accusative Feminine Singular
+V-PPA-AMP	<null>	Verb - Present Participle Active - Accusative Masculine Plural
+V-PPA-AMS	<null>	Verb - Present Participle Active - Accusative Masculine Singular
+V-PPA-ANP	<null>	Verb - Present Participle Active - Accusative Neuter Plural
+V-PPA-ANS	<null>	Verb - Present Participle Active - Accusative Neuter Singular
+V-PPA-DFP	<null>	Verb - Present Participle Active - Dative Feminine Plural
+V-PPA-DFS	<null>	Verb - Present Participle Active - Dative Feminine Singular
+V-PPA-DMP	<null>	Verb - Present Participle Active - Dative Masculine Plural
+V-PPA-DMS	<null>	Verb - Present Participle Active - Dative Masculine Singular
+V-PPA-DNP	<null>	Verb - Present Participle Active - Dative Neuter Plural
+V-PPA-DNS	<null>	Verb - Present Participle Active - Dative Neuter Singular
+V-PPA-GFP	<null>	Verb - Present Participle Active - Genitive Feminine Plural
+V-PPA-GFS	<null>	Verb - Present Participle Active - Genitive Feminine Singular
+V-PPA-GMP	<null>	Verb - Present Participle Active - Genitive Masculine Plural
+V-PPA-GMS	<null>	Verb - Present Participle Active - Genitive Masculine Singular
+V-PPA-GNP	<null>	Verb - Present Participle Active - Genitive Neuter Plural
+V-PPA-GNS	<null>	Verb - Present Participle Active - Genitive Neuter Singular
+V-PPA-NFP	<null>	Verb - Present Participle Active - Nominative Feminine Plural
+V-PPA-NFS	<null>	Verb - Present Participle Active - Nominative Feminine Singular
+V-PPA-NM3S	<null>	Verb - Present Participle Active - Nominative Masculine 3rd Person Singular
+V-PPA-NMP	<null>	Verb - Present Participle Active - Nominative Masculine Plural
+V-PPA-NMS	<null>	Verb - Present Participle Active - Nominative Masculine Singular
+V-PPA-NNP	<null>	Verb - Present Participle Active - Nominative Neuter Plural
+V-PPA-NNS	<null>	Verb - Present Participle Active - Nominative Neuter Singular
+V-PPA-VFS	<null>	Verb - Present Participle Active - Vocative Feminine Singular
+V-PPA-VMP	<null>	Verb - Present Participle Active - Vocative Masculine Plural
+V-PPA-VMS	<null>	Verb - Present Participle Active - Vocative Masculine Singular
+V-PPM-AFS	<null>	Verb - Present Participle Middle - Accusative Feminine Singular
+V-PPM-AMP	<null>	Verb - Present Participle Middle - Accusative Masculine Plural
+V-PPM-AMS	<null>	Verb - Present Participle Middle - Accusative Masculine Singular
+V-PPM-ANS	<null>	Verb - Present Participle Middle - Accusative Neuter Singular
+V-PPM-DMP	<null>	Verb - Present Participle Middle - Dative Masculine Plural
+V-PPM-DMS	<null>	Verb - Present Participle Middle - Dative Masculine Singular
+V-PPM-GFP	<null>	Verb - Present Participle Middle - Genitive Feminine Plural
+V-PPM-GFS	<null>	Verb - Present Participle Middle - Genitive Feminine Singular
+V-PPM-GMP	<null>	Verb - Present Participle Middle - Genitive Masculine Plural
+V-PPM-GMS	<null>	Verb - Present Participle Middle - Genitive Masculine Singular
+V-PPM-GNP	<null>	Verb - Present Participle Middle - Genitive Neuter Plural
+V-PPM-GNS	<null>	Verb - Present Participle Middle - Genitive Neuter Singular
+V-PPM-NFP	<null>	Verb - Present Participle Middle - Nominative Feminine Plural
+V-PPM-NFS	<null>	Verb - Present Participle Middle - Nominative Feminine Singular
+V-PPM-NMP	<null>	Verb - Present Participle Middle - Nominative Masculine Plural
+V-PPM-NMS	<null>	Verb - Present Participle Middle - Nominative Masculine Singular
+V-PPM-NNS	<null>	Verb - Present Participle Middle - Nominative Neuter Singular
+V-PPM/P-AFP	<null>	Verb - Present Participle Middle or Passive - Accusative Feminine Plural
+V-PPM/P-AFS	<null>	Verb - Present Participle Middle or Passive - Accusative Feminine Singular
+V-PPM/P-AMP	<null>	Verb - Present Participle Middle or Passive - Accusative Masculine Plural
+V-PPM/P-AMS	<null>	Verb - Present Participle Middle or Passive - Accusative Masculine Singular
+V-PPM/P-ANP	<null>	Verb - Present Participle Middle or Passive - Accusative Neuter Plural
+V-PPM/P-ANS	<null>	Verb - Present Participle Middle or Passive - Accusative Neuter Singular
+V-PPM/P-DFP	<null>	Verb - Present Participle Middle or Passive - Dative Feminine Plural
+V-PPM/P-DFS	<null>	Verb - Present Participle Middle or Passive - Dative Feminine Singular
+V-PPM/P-DMP	<null>	Verb - Present Participle Middle or Passive - Dative Masculine Plural
+V-PPM/P-DMS	<null>	Verb - Present Participle Middle or Passive - Dative Masculine Singular
+V-PPM/P-DNP	<null>	Verb - Present Participle Middle or Passive - Dative Neuter Plural
+V-PPM/P-DNS	<null>	Verb - Present Participle Middle or Passive - Dative Neuter Singular
+V-PPM/P-GFP	<null>	Verb - Present Participle Middle or Passive - Genitive Feminine Plural
+V-PPM/P-GFS	<null>	Verb - Present Participle Middle or Passive - Genitive Feminine Singular
+V-PPM/P-GMP	<null>	Verb - Present Participle Middle or Passive - Genitive Masculine Plural
+V-PPM/P-GMS	<null>	Verb - Present Participle Middle or Passive - Genitive Masculine Singular
+V-PPM/P-GNP	<null>	Verb - Present Participle Middle or Passive - Genitive Neuter Plural
+V-PPM/P-GNS	<null>	Verb - Present Participle Middle or Passive - Genitive Neuter Singular
+V-PPM/P-NFP	<null>	Verb - Present Participle Middle or Passive - Nominative Feminine Plural
+V-PPM/P-NFS	<null>	Verb - Present Participle Middle or Passive - Nominative Feminine Singular
+V-PPM/P-NMP	<null>	Verb - Present Participle Middle or Passive - Nominative Masculine Plural
+V-PPM/P-NMS	<null>	Verb - Present Participle Middle or Passive - Nominative Masculine Singular
+V-PPM/P-NNP	<null>	Verb - Present Participle Middle or Passive - Nominative Neuter Plural
+V-PPM/P-NNS	<null>	Verb - Present Participle Middle or Passive - Nominative Neuter Singular
+V-PPM/P-VMP	<null>	Verb - Present Participle Middle or Passive - Vocative Masculine Plural
+V-PPM/P-VMS	<null>	Verb - Present Participle Middle or Passive - Vocative Masculine Singular
+V-PPP-DMP	<null>	Verb - Present Participle Passive - Dative Masculine Plural
+V-PPP-GMP	<null>	Verb - Present Participle Passive - Genitive Masculine Plural
+V-PPP-GMS	<null>	Verb - Present Participle Passive - Genitive Masculine Singular
+V-PPP-NMP	<null>	Verb - Present Participle Passive - Nominative Masculine Plural
+V-PSA-1P	<null>	Verb - Present Subjunctive Active - 1st Person Plural
+V-PSA-1S	<null>	Verb - Present Subjunctive Active - 1st Person Singular
+V-PSA-2P	<null>	Verb - Present Subjunctive Active - 2nd Person Plural
+V-PSA-2S	<null>	Verb - Present Subjunctive Active - 2nd Person Singular
+V-PSA-3P	<null>	Verb - Present Subjunctive Active - 3rd Person Plural
+V-PSA-3S	<null>	Verb - Present Subjunctive Active - 3rd Person Singular
+V-PSM-1P	<null>	Verb - Present Subjunctive Middle - 1st Person Plural
+V-PSM-1S	<null>	Verb - Present Subjunctive Middle - 1st Person Singular
+V-PSM-2S	<null>	Verb - Present Subjunctive Middle - 2nd Person Singular
+V-PSM-3S	<null>	Verb - Present Subjunctive Middle - 3rd Person Singular
+V-PSM/P-1P	<null>	Verb - Present Subjunctive Middle or Passive - 1st Person Plural
+V-PSM/P-1S	<null>	Verb - Present Subjunctive Middle or Passive - 1st Person Singular
+V-PSM/P-2P	<null>	Verb - Present Subjunctive Middle or Passive - 2nd Person Plural
+V-PSM/P-2S	<null>	Verb - Present Subjunctive Middle or Passive - 2nd Person Singular
+V-PSM/P-3P	<null>	Verb - Present Subjunctive Middle or Passive - 3rd Person Plural
+V-PSM/P-3S	<null>	Verb - Present Subjunctive Middle or Passive - 3rd Person Singular
+V-RIA-1P	<null>	Verb - Perfect Indicative Active - 1st Person Plural
+V-RIA-1S	<null>	Verb - Perfect Indicative Active - 1st Person Singular
+V-RIA-2P	<null>	Verb - Perfect Indicative Active - 2nd Person Plural
+V-RIA-2S	<null>	Verb - Perfect Indicative Active - 2nd Person Singular
+V-RIA-3P	<null>	Verb - Perfect Indicative Active - 3rd Person Plural
+V-RIA-3S	<null>	Verb - Perfect Indicative Active - 3rd Person Singular
+V-RIM-2S	<null>	Verb - Perfect Indicative Middle - 2nd Person Singular
+V-RIM-3S	<null>	Verb - Perfect Indicative Middle - 3rd Person Singular
+V-RIM/P-1P	<null>	Verb - Perfect Indicative Middle or Passive - 1st Person Plural
+V-RIM/P-1S	<null>	Verb - Perfect Indicative Middle or Passive - 1st Person Singular
+V-RIM/P-2P	<null>	Verb - Perfect Indicative Middle or Passive - 2nd Person Plural
+V-RIM/P-2S	<null>	Verb - Perfect Indicative Middle or Passive - 2nd Person Singular
+V-RIM/P-3P	<null>	Verb - Perfect Indicative Middle or Passive - 3rd Person Plural
+V-RIM/P-3S	<null>	Verb - Perfect Indicative Middle or Passive - 3rd Person Singular
+V-RIP-1P	<null>	Verb - Perfect Indicative Passive - 1st Person Plural
+V-RMA-2P	<null>	Verb - Perfect Imperative Active - 2nd Person Plural
+V-RMM/P-2P	<null>	Verb - Perfect Imperative Middle or Passive - 2nd Person Plural
+V-RMM/P-2S	<null>	Verb - Perfect Imperative Middle or Passive - 2nd Person Singular
+V-RNA	<null>	Verb - Perfect Infinitive Active
+V-RNM/P	<null>	Verb - Perfect Infinitive Middle or Passive
+V-RPA-AFS	<null>	Verb - Perfect Participle Active - Accusative Feminine Singular
+V-RPA-AMP	<null>	Verb - Perfect Participle Active - Accusative Masculine Plural
+V-RPA-AMS	<null>	Verb - Perfect Participle Active - Accusative Masculine Singular
+V-RPA-ANP	<null>	Verb - Perfect Participle Active - Accusative Neuter Plural
+V-RPA-ANS	<null>	Verb - Perfect Participle Active - Accusative Neuter Singular
+V-RPA-DMP	<null>	Verb - Perfect Participle Active - Dative Masculine Plural
+V-RPA-DMS	<null>	Verb - Perfect Participle Active - Dative Masculine Singular
+V-RPA-DNS	<null>	Verb - Perfect Participle Active - Dative Neuter Singular
+V-RPA-GFS	<null>	Verb - Perfect Participle Active - Genitive Feminine Singular
+V-RPA-GMP	<null>	Verb - Perfect Participle Active - Genitive Masculine Plural
+V-RPA-GMS	<null>	Verb - Perfect Participle Active - Genitive Masculine Singular
+V-RPA-GNP	<null>	Verb - Perfect Participle Active - Genitive Neuter Plural
+V-RPA-NFP	<null>	Verb - Perfect Participle Active - Nominative Feminine Plural
+V-RPA-NFS	<null>	Verb - Perfect Participle Active - Nominative Feminine Singular
+V-RPA-NMP	<null>	Verb - Perfect Participle Active - Nominative Masculine Plural
+V-RPA-NMS	<null>	Verb - Perfect Participle Active - Nominative Masculine Singular
+V-RPA-NNP	<null>	Verb - Perfect Participle Active - Nominative Neuter Plural
+V-RPA-NNS	<null>	Verb - Perfect Participle Active - Nominative Neuter Singular
+V-RPM-AMS	<null>	Verb - Perfect Participle Middle - Accusative Masculine Singular
+V-RPM-NMP	<null>	Verb - Perfect Participle Middle - Nominative Masculine Plural
+V-RPM-NMS	<null>	Verb - Perfect Participle Middle - Nominative Masculine Singular
+V-RPM/P-AFP	<null>	Verb - Perfect Participle Middle or Passive - Accusative Feminine Plural
+V-RPM/P-AFS	<null>	Verb - Perfect Participle Middle or Passive - Accusative Feminine Singular
+V-RPM/P-AMP	<null>	Verb - Perfect Participle Middle or Passive - Accusative Masculine Plural
+V-RPM/P-AMS	<null>	Verb - Perfect Participle Middle or Passive - Accusative Masculine Singular
+V-RPM/P-ANP	<null>	Verb - Perfect Participle Middle or Passive - Accusative Neuter Plural
+V-RPM/P-ANS	<null>	Verb - Perfect Participle Middle or Passive - Accusative Neuter Singular
+V-RPM/P-DFP	<null>	Verb - Perfect Participle Middle or Passive - Dative Feminine Plural
+V-RPM/P-DFS	<null>	Verb - Perfect Participle Middle or Passive - Dative Feminine Singular
+V-RPM/P-DMP	<null>	Verb - Perfect Participle Middle or Passive - Dative Masculine Plural
+V-RPM/P-DMS	<null>	Verb - Perfect Participle Middle or Passive - Dative Masculine Singular
+V-RPM/P-DNP	<null>	Verb - Perfect Participle Middle or Passive - Dative Neuter Plural
+V-RPM/P-DNS	<null>	Verb - Perfect Participle Middle or Passive - Dative Neuter Singular
+V-RPM/P-GFP	<null>	Verb - Perfect Participle Middle or Passive - Genitive Feminine Plural
+V-RPM/P-GFS	<null>	Verb - Perfect Participle Middle or Passive - Genitive Feminine Singular
+V-RPM/P-GMP	<null>	Verb - Perfect Participle Middle or Passive - Genitive Masculine Plural
+V-RPM/P-GMS	<null>	Verb - Perfect Participle Middle or Passive - Genitive Masculine Singular
+V-RPM/P-GNP	<null>	Verb - Perfect Participle Middle or Passive - Genitive Neuter Plural
+V-RPM/P-GNS	<null>	Verb - Perfect Participle Middle or Passive - Genitive Neuter Singular
+V-RPM/P-NFP	<null>	Verb - Perfect Participle Middle or Passive - Nominative Feminine Plural
+V-RPM/P-NFS	<null>	Verb - Perfect Participle Middle or Passive - Nominative Feminine Singular
+V-RPM/P-NMP	<null>	Verb - Perfect Participle Middle or Passive - Nominative Masculine Plural
+V-RPM/P-NMS	<null>	Verb - Perfect Participle Middle or Passive - Nominative Masculine Singular
+V-RPM/P-NNP	<null>	Verb - Perfect Participle Middle or Passive - Nominative Neuter Plural
+V-RPM/P-NNS	<null>	Verb - Perfect Participle Middle or Passive - Nominative Neuter Singular
+V-RPM/P-VFS	<null>	Verb - Perfect Participle Middle or Passive - Vocative Feminine Singular
+V-RPM/P-VMP	<null>	Verb - Perfect Participle Middle or Passive - Vocative Masculine Plural
+V-RPM/P-VMS	<null>	Verb - Perfect Participle Middle or Passive - Vocative Masculine Singular
+V-RPP-AFS	<null>	Verb - Perfect Participle Passive - Accusative Feminine Singular
+V-RPP-AMP	<null>	Verb - Perfect Participle Passive - Accusative Masculine Plural
+V-RPP-NFS	<null>	Verb - Perfect Participle Passive - Nominative Feminine Singular
+V-RSA-1P	<null>	Verb - Perfect Subjunctive Active - 1st Person Plural
+V-RSA-1S	<null>	Verb - Perfect Subjunctive Active - 1st Person Singular
+V-RSA-2P	<null>	Verb - Perfect Subjunctive Active - 2nd Person Plural
+V-RSA-2S	<null>	Verb - Perfect Subjunctive Active - 2nd Person Singular
